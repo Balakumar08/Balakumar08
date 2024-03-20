@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balakumar08
+- 👋 Hi, I’m @Balakumar
 - 👀 I’m interested in Audio signal chain & processing and Hardware security for the automotive applications
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Hardware security and cyber security in automotive.
